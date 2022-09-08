@@ -1,9 +1,10 @@
 #include <studio.h>
 
 /**
-* main -print the string in the put function
+* main - print the string in the put function
+*
 * Description: using the main function
-* this prints "Programming is like building amultilingual puzzle
+* this program prints "Programming is like building amultilingual puzzle"
 * Return: 0
 */
 int main(void)
