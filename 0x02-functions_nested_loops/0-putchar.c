@@ -1,7 +1,13 @@
-#include <stdio.h>
+#include "main.h"
 
-str main (void)
+/**
+ * main - print putchar
+ * Return: always 0
+ */
+
+int main(void)
 {
-	write ("%i_putchar\n");
+	fwrite("_putchar\n");
+
 	return (0);
 }
